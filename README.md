@@ -1,5 +1,7 @@
 **📊 Bank Loan Analysis using SQL & Power BI**
 
+---
+
 **📌 Project Overview**
 
 This project presents an end-to-end loan portfolio analytics solution developed using SQL for data processing and KPI computation and Power BI for data modeling, visualization, and interactive reporting. The objective is to analyze loan performance, assess credit risk, and derive actionable insights to support data-driven decision-making in a banking context.
@@ -186,6 +188,8 @@ This project showcases an end-to-end **loan analytics solution using SQL and Pow
 
 **Contributions**
 
-Explore the Power BI dashboard for interactive visualizations: 
+Explore the Power BI dashboard for interactive visualizations: [Bank Loan Analysis](https://github.com/VickyPatel-MSPI/Bank_Loan_Analysis/blob/main/Bank%20Loan%20Analysis.pbix)
 
-Explore the SQL word file for query and data analysis:
+Explore the SQL word file for query and data analysis: [Bank Loan SQL Analysis](https://github.com/VickyPatel-MSPI/Bank_Loan_Analysis/blob/main/SQL.docx)
+
+---
