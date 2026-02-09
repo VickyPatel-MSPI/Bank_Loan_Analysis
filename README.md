@@ -35,7 +35,7 @@ This project aims to:
 ---
 **🗂️ Dataset Description**
 
-**Table Used:** Bank_Loan_Data
+**Table Used:** [Bank_Loan_Data](https://github.com/VickyPatel-MSPI/Bank_Loan_Analysis/blob/main/financial_loan.csv)
 
 The dataset includes:
 
