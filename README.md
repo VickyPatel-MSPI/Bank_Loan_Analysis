@@ -188,8 +188,8 @@ This project showcases an end-to-end **loan analytics solution using SQL and Pow
 
 **Contributions**
 
-Explore the Power BI dashboard for interactive visualizations: [Bank Loan Analysis](https://github.com/VickyPatel-MSPI/Bank_Loan_Analysis/blob/main/Bank%20Loan%20Analysis.pbix)
+Explore the Power BI dashboard for interactive visualizations: [Bank Loan Analysis](https://github.com/VickyPatel-MSPI/Bank_Loan_Analysis/blob/main/Power%20BI%20and%20SQL/Bank%20Loan%20Analysis.pbix)
 
-Explore the SQL word file for query and data analysis: [Bank Loan SQL Analysis](https://github.com/VickyPatel-MSPI/Bank_Loan_Analysis/blob/main/SQL.docx)
+Explore the SQL word file for query and data analysis: [Bank Loan SQL Analysis](https://github.com/VickyPatel-MSPI/Bank_Loan_Analysis/blob/main/Power%20BI%20and%20SQL/SQL.docx)
 
 ---
